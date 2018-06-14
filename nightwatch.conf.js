@@ -9,8 +9,8 @@ nightwatch_config = {
   test_settings: {
     default: {
       desiredCapabilities: {
-        'browserstack.user': 'bla133',
-        'browserstack.key': 'Cpoqq3qzwddmKqoYmSyj',
+        'browserstack.user': 'jeanphilippe10',
+        'browserstack.key': 'QqS8NF6sq1A9wttyRyfZ',
         'browser': 'chrome'
       }
     }
